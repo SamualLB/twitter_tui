@@ -10,4 +10,11 @@ targets:
 
 crystal: 0.31.1
 
+dependencies:
+  twitter-crystal:
+    github: sferik/twitter-crystal
+    version: ~> 0.2.1
+  tui:
+    github: SamualLB/tui
+
 license: MIT

@@ -1,0 +1,14 @@
+version: 1.0
+shards:
+  ncurses:
+    github: SamualLB/ncurses
+    version: 0.0.7
+
+  tui:
+    github: SamualLB/tui
+    commit: b3fa90b05646348d619b365f69aab9b0a7df3d98
+
+  twitter-crystal:
+    github: sferik/twitter-crystal
+    version: 0.2.1
+
