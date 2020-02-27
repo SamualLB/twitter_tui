@@ -1,14 +1,18 @@
 version: 1.0
 shards:
+  char_width:
+    github: SamualLB/char_width
+    commit: a7ae3a26a154475ccf7754c6fbf9433c9470bc1c
+
   ncurses:
     github: SamualLB/ncurses
     version: 0.0.7
 
   tui:
     github: SamualLB/tui
-    commit: b3fa90b05646348d619b365f69aab9b0a7df3d98
+    commit: 9a79f5699fb24c7b0cffcf08d03882e3aec85fd3
 
   twitter-crystal:
-    github: sferik/twitter-crystal
-    version: 0.2.1
+    github: SamualLB/twitter-crystal
+    version: 0.2.2
 

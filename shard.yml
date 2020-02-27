@@ -12,8 +12,8 @@ crystal: 0.31.1
 
 dependencies:
   twitter-crystal:
-    github: sferik/twitter-crystal
-    version: ~> 0.2.1
+    github: SamualLB/twitter-crystal
+    version: ~> 0.2.2
   tui:
     github: SamualLB/tui
 
